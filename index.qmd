@@ -1,0 +1,23 @@
+---
+title: "Reese Martin"
+image: PIKERUSH-14.jpg
+about: 
+  template: jolla
+  links: 
+    - icon: Linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/reese-martin-745039363/
+    - icon: inboxes
+      text: Contact Me
+      href: mailto:Rm122@uark.edu
+---
+
+About Me
+
+I am a Junior Industrial Engineering and Operations Analylitcs student at the University of Arkansas in Fayettville, AR. Born in Manhattan Kansas and moved to Austin Texas in 2011 all the way until this date. I am currenetly working towards my Green Belt certification and my PMP as well as my PMI certifications. I have recently interned and gained experience this past summer (Summer 2026) at L3Harris Technologies. This was a great summer of me getting more footing into my career.
+
+Education
+
+Univeristy of Arkansas GPA: 3.67
+
+Bachelor of Science: Industrial Engineering and Operations Analylitics
