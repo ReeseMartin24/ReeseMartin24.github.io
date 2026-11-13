@@ -1,16 +1,18 @@
 ---
 title: "Flight Reliability at XNA: Data Visualization Team Project"
 author:
-  - Reese Martin
   - Derek Camacho
-  - Issac Shilling
-  - Josiah Cox
   - Easton Contorno
+  - Josiah Cox
+  - Reese Martin
+  - Isaac Shilling
 date: 2026-11-13
 categories: [Data Visualization, Excel]
 ---
 
-**Group members:** Reese Martin, [[Partner Name]](https://[partner-username].github.io/)
+**Group members:** Reese Martin, [Derek Camacho](https://derek-c85.github.io/), [Isaac Shilling](https://isaacshilling06.github.io/), [Josiah Cox](https://USERNAME.github.io/), and [Easton Contorno](https://ejc017.github.io/)
+
+![Title slide](title.png)
 
 ## The Data Set
 
